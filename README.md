@@ -1,5 +1,6 @@
 ## Who am I ?
-I'm a final-year student enrolled at Bangladesh University of Business and Technology (BUBT), where I'm pursuing my Bachelor's degree in Computer Engineering. My passion for technology, innovation, and ML & Deep Learning drives me.  I thrive on challenges, am highly motivated and results-oriented. I'm also an open-source contributor, a web development enthusiast, and confident in my ability to excel in any role.
+Deeply passionate about cybersecurity, I am an enthusiast eager for challenges, thrilled about SOC, Threat Response, and Data
+Protection. Ready to fortify digital security with a can-do attitude.
 
 
 ## Visitor Count
@@ -19,13 +20,13 @@ I'm a final-year student enrolled at Bangladesh University of Business and Techn
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hrshammo/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-saydur-rahman-rifat277/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/hr_shammo" target="_blank">
+  <a href="https://twitter.com/saydur_rifat" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="hrshammo" target="_blank">
+  <a href="srrifat781" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/srrifat277" target="_blank">
