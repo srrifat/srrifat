@@ -7,9 +7,9 @@ Protection. Ready to fortify digital security with a can-do attitude.
 ![Visitor Count](https://profile-counter.glitch.me/srrifat/count.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=srrifat&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=srrifat&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srrifat&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![An image of @hrshammo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srrifat)](https://holopin.io/@srrifat)
 
