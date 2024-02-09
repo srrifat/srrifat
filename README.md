@@ -11,7 +11,7 @@ Protection. Ready to fortify digital security with a can-do attitude.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srrifat&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srrifat&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![An image of @srrifat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srrifat)](https://holopin.io/@srrifat)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
