@@ -4,14 +4,14 @@ Protection. Ready to fortify digital security with a can-do attitude.
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/hrshammo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/srrifat/count.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrshammo&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshammo&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![An image of @hrshammo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hrshammo)](https://holopin.io/@hrshammo)
+[![An image of @hrshammo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srrifat)](https://holopin.io/@srrifat)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -34,5 +34,4 @@ Protection. Ready to fortify digital security with a can-do attitude.
   </a>
 </div>
 
-###
-[Bang Bang](https://drive.google.com/drive/folders/1FNxjrYjWFA0Sfjg8-Bq--Lu4VaAiJoR1?usp=sharing)
+
